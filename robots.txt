@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://brbabaloni.github.io/sitemap.xml
+Sitemap: https://brbabaloni.fr/sitemap.xml
