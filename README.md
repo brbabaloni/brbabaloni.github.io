@@ -4,6 +4,6 @@
 
 [![pages-build-deployment](https://github.com/brbabaloni/brbabaloni.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=production)](https://github.com/brbabaloni/brbabaloni.github.io/actions/workflows/pages/pages-build-deployment)
 
-### Welcome to Baptiste's Homepage (Hugo Based) repository !
+### Welcome to Baptiste's Homepage (GitHub Pages) repository !
 
 I use [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic) for my homepage. And GitHub Actions for the Continuous Integration and the deployment to [GitHub Pages repository](https://github.com/brbabaloni/brbabaloni.github.io)
