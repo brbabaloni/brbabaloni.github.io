@@ -6,10 +6,12 @@
 &lt;p>Dans le cadre du renouvellement partiel du matériel, nous devons déployer une centaine de machine par an.
 Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p>
 &lt;p>Pour accélerer le déploiement des nouvelles machine, j&amp;rsquo;ai proposé à mes chefs de service cette solution technique de déploiement de poste via le réseau. Elle permet de réduire le temps déploiement à 5 min par machine.&lt;/p>
-&lt;h3>La solution&lt;/h3>
+&lt;h3>Solution&lt;/h3>
 &lt;p>FOG (Free OpenSource Ghost) est une solution open-source de déploiement
 d&amp;rsquo;images systèmes et d&amp;rsquo;applications sur des postes clients, qui se base sur
 une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
 FOG permet entre de déployer un système d&amp;rsquo;exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s&amp;rsquo;appuyant sur les
-protocoles DHCP / PXE.&lt;/p></description></item></channel></rss>
+protocoles DHCP / PXE.&lt;/p>
+&lt;h3>Installation&lt;/h3>
+&lt;p>Comme expliqué précédement, FOG s&amp;rsquo;installe sur une base Linux (Debian, Ubuntu, &amp;hellip;), l&amp;rsquo;installation s&amp;rsquo;effectue simplement à l&amp;rsquo;aide d&amp;rsquo;un script Bash qui déroule l&amp;rsquo;installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.&lt;/p></description></item></channel></rss>
