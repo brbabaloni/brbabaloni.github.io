@@ -5,7 +5,7 @@
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=generator content="Wowchemy 5.3.0 for Hugo">
 <meta name=author content="Baptiste RUELLO-BABALONI">
-<meta name=description content="FOG est un serveur d'image PXE afin de déployer plus rapidement des postes de travail.">
+<meta name=description content="Fog Project est un logiciel sous Linux qui va vous permettre d’effectuer vos déploiements pour machines Windows, Linux, et Mac.">
 <link rel=alternate hreflang=fr-fr href=https://brbabaloni.fr/project/pxe/>
 <link rel=preconnect href=https://fonts.gstatic.com crossorigin>
 <meta name=theme-color content="#3f51b5">
@@ -24,11 +24,11 @@
 <meta property="og:site_name" content="Baptiste RUELLO-BABALONI">
 <meta property="og:url" content="https://brbabaloni.fr/project/pxe/">
 <meta property="og:title" content="Déploiement d'un serveur PXE FOG | Baptiste RUELLO-BABALONI">
-<meta property="og:description" content="FOG est un serveur d'image PXE afin de déployer plus rapidement des postes de travail."><meta property="og:image" content="https://brbabaloni.fr/project/pxe/featured.jpg">
+<meta property="og:description" content="Fog Project est un logiciel sous Linux qui va vous permettre d’effectuer vos déploiements pour machines Windows, Linux, et Mac."><meta property="og:image" content="https://brbabaloni.fr/project/pxe/featured.jpg">
 <meta property="twitter:image" content="https://brbabaloni.fr/project/pxe/featured.jpg"><meta property="og:locale" content="fr-fr">
 <meta property="article:published_time" content="2016-04-27T00:00:00+00:00">
 <meta property="article:modified_time" content="2016-04-27T00:00:00+00:00">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://brbabaloni.fr/project/pxe/"},"headline":"Déploiement d'un serveur PXE FOG","image":["https://brbabaloni.fr/project/pxe/featured.jpg"],"datePublished":"2016-04-27T00:00:00Z","dateModified":"2016-04-27T00:00:00Z","author":{"@type":"Person","name":"Baptiste RUELLO-BABALONI"},"publisher":{"@type":"Organization","name":"Baptiste RUELLO-BABALONI","logo":{"@type":"ImageObject","url":"https://brbabaloni.fr/media/icon_huebf8e0a84d322f456ec4ad5120d75244_457240_192x192_fill_lanczos_center_3.png"}},"description":"FOG est un serveur d'image PXE afin de déployer plus rapidement des postes de travail."}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://brbabaloni.fr/project/pxe/"},"headline":"Déploiement d'un serveur PXE FOG","image":["https://brbabaloni.fr/project/pxe/featured.jpg"],"datePublished":"2016-04-27T00:00:00Z","dateModified":"2016-04-27T00:00:00Z","author":{"@type":"Person","name":"Baptiste RUELLO-BABALONI"},"publisher":{"@type":"Organization","name":"Baptiste RUELLO-BABALONI","logo":{"@type":"ImageObject","url":"https://brbabaloni.fr/media/icon_huebf8e0a84d322f456ec4ad5120d75244_457240_192x192_fill_lanczos_center_3.png"}},"description":"Fog Project est un logiciel sous Linux qui va vous permettre d’effectuer vos déploiements pour machines Windows, Linux, et Mac."}</script>
 <title>Déploiement d'un serveur PXE FOG | Baptiste RUELLO-BABALONI</title>
 </head>
 <body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=1dbc414829c3f5c080758d062bbca15f>
@@ -136,7 +136,17 @@ Diapositives
 </div>
 <div class=article-container>
 <div class=article-style>
-<p>FOG est un serveur d&rsquo;image PXE afin de déployer plus rapidement des postes de travail.</p>
+<ul>
+<li>
+<ol>
+<li>Qu’est-ce que le déploiement
+Le déploiement consiste à effectuer des installations automatisées de machines ou installer ou mettre à jour automatiquement des logiciels sur des machines en production.</li>
+</ol>
+</li>
+</ul>
+<p>Pour effectuer des installations automatisées de systèmes d’exploitation, il vous faudra préparer au préalable un « Master ». Ce master sera cloné sur les machines de destination, avec des possibilités de personnalisation automatisée.</p>
+<p>À cette fin, la machine cliente devant recevoir le déploiement (l’application du master sur celui-ci) démarrera via le réseau, le serveur de déploiement lui envoyant les éléments nécessaires.</p>
+<p>La réalisation d’un master nécessitera des compétences sur le fonctionnement des systèmes d’exploitation concernés ainsi que de leurs outils. Un minimum de compétences en programmation de script sera également nécessaire.</p>
 </div>
 <div class=article-tags>
 <a class="badge badge-light" href=/tag/pro/>pro</a>
