@@ -7,4 +7,7 @@ d&amp;rsquo;images systèmes et d&amp;rsquo;applications sur des postes clients,
 une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
 FOG permet entre de déployer un système d&amp;rsquo;exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s&amp;rsquo;appuyant sur les
-protocoles DHCP / PXE.&lt;/p></description></item></channel></rss>
+protocoles DHCP / PXE.&lt;/p>
+&lt;p>Contexte :&lt;/p>
+&lt;p>Dans le cadre du renouvellement partiel du matériel, nous devons déployer une centaine de machine par an.
+Auparavant les postes était masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p></description></item></channel></rss>
