@@ -152,15 +152,17 @@ color: navy;
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;p>FOG (Free OpenSource Ghost) est une solution gratuite de déploiement
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;p>Dans le cadre du renouvellement partiel du matériel, nous devons déployer une centaine de machine par an.
+Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p>
+&lt;p>Pour accélerer le déploiement des nouvelles machine, j&amp;rsquo;ai proposé à mes chefs de service cette solution technique de déploiement de poste via le réseau. Elle permet de réduire le temps déploiement à 5 min par machine.&lt;/p>
+&lt;h3>La solution&lt;/h3>
+&lt;p>FOG (Free OpenSource Ghost) est une solution open-source de déploiement
 d&amp;rsquo;images systèmes et d&amp;rsquo;applications sur des postes clients, qui se base sur
 une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
 FOG permet entre de déployer un système d&amp;rsquo;exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s&amp;rsquo;appuyant sur les
-protocoles DHCP / PXE.&lt;/p>
-&lt;p>&lt;b>Contexte :&lt;/b>&lt;/p>
-&lt;p>Dans le cadre du renouvellement partiel du matériel, nous devons déployer une centaine de machine par an.
-Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
+protocoles DHCP / PXE.&lt;/p></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
