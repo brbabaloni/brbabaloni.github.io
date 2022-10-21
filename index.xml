@@ -152,17 +152,12 @@ color: navy;
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;ul>
-&lt;li>
-&lt;ol>
-&lt;li>Qu’est-ce que le déploiement
-Le déploiement consiste à effectuer des installations automatisées de machines ou installer ou mettre à jour automatiquement des logiciels sur des machines en production.&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;/ul>
-&lt;p>Pour effectuer des installations automatisées de systèmes d’exploitation, il vous faudra préparer au préalable un « Master ». Ce master sera cloné sur les machines de destination, avec des possibilités de personnalisation automatisée.&lt;/p>
-&lt;p>À cette fin, la machine cliente devant recevoir le déploiement (l’application du master sur celui-ci) démarrera via le réseau, le serveur de déploiement lui envoyant les éléments nécessaires.&lt;/p>
-&lt;p>La réalisation d’un master nécessitera des compétences sur le fonctionnement des systèmes d’exploitation concernés ainsi que de leurs outils. Un minimum de compétences en programmation de script sera également nécessaire.&lt;/p></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;p>FOG (Free OpenSource Ghost) est une solution gratuite de déploiement
+d&amp;rsquo;images systèmes et d&amp;rsquo;applications sur des postes clients, qui se base sur
+une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
+FOG permet entre de déployer un système d&amp;rsquo;exploitation préalablement
+cloné, sur un parc de machines donné via le réseau en s&amp;rsquo;appuyant sur les
+protocoles DHCP / PXE.&lt;/p></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
