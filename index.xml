@@ -158,9 +158,9 @@ une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
 FOG permet entre de déployer un système d&amp;rsquo;exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s&amp;rsquo;appuyant sur les
 protocoles DHCP / PXE.&lt;/p>
-&lt;p>Contexte :&lt;/p>
+&lt;p>&lt;b>Contexte :&lt;/b>&lt;/p>
 &lt;p>Dans le cadre du renouvellement partiel du matériel, nous devons déployer une centaine de machine par an.
-Auparavant les postes était masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
+Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
