@@ -22,22 +22,25 @@ Je m&amp;rsquo;appelle Baptiste, j&amp;rsquo;ai 21 ans, je travaille à la Direc
 La Direction Zonale de Police Judiciaire Sud (DZPJ SUD), plus important service territorial de la Direction Centrale de la Police Judiciaire (D.C.P.J), compte plus de 1350fonctionnaires répartis entre les quatre Directions Territoriales de Police Judiciaire (D.T.P.J.) de Marseille, Montpellier, Toulouse et Ajaccio.
 &lt;br>
 &lt;br>
-Mes missions au sein de la DZPJ Sud sont :&lt;/p>
-&lt;ul>
-&lt;li>Installer, inventorier et maintenir opérationnels et homogènes les outils informatiques et de communication&lt;/li>
-&lt;li>Assurer la sécurité et la continuité du système d’information&lt;/li>
-&lt;li>Assister les utilisateurs
+Mon service est composé d&amp;rsquo;un Commandant de Police et d&amp;rsquo;un Ingénieur des SIC qui composent la tête du service et chapeaute l&amp;rsquo;ensemble de l&amp;rsquo;activité du service qui est réparti entre deux cellules :&lt;/p>
+&lt;ul>le Groupe Informatique :&lt;ul>chargé de l'installation et de la maintenance des systèmes d'information et de communications
+&lt;ul>le Guichet Unique :&lt;ul>chargé de la gestion des droits d'accès applicatifs, Active Directory, batimentaire ; des cartes agents, de la gestion de la flotte NEO.
 &lt;br>
 &lt;br>
-Notre parc informatique se composent de :&lt;/li>
-&lt;li>486 postes fixes&lt;/li>
-&lt;li>52 postes nomades dit &amp;ldquo;Noémi&amp;rdquo;&lt;/li>
-&lt;li>507 téléphones IP&lt;/li>
-&lt;li>23 switchs HP et 3COM&lt;/li>
-&lt;li>3 serveurs de virtualisation&lt;/li>
-&lt;li>18 machines virtuelles&lt;/li>
-&lt;li>6 baies de stockage&lt;/li>
-&lt;/ul></description></item><item><title>Slides</title><link>https://brbabaloni.fr/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+Mes missions au sein de la DZPJ Sud sont :
+- Installer, inventorier et maintenir opérationnels et homogènes les outils informatiques et de communication
+- Assurer la sécurité et la continuité du système d’information
+- Assister les utilisateurs
+&lt;br>
+&lt;br>
+Notre patrimoine informatique se composent de :
+- 486 postes fixes
+- 52 postes nomades dit "Noémi"
+- 507 téléphones IP
+- 23 switchs HP et 3COM
+- 3 serveurs de virtualisation
+- 18 machines virtuelles
+- 6 baies de stockage</description></item><item><title>Slides</title><link>https://brbabaloni.fr/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
@@ -152,7 +155,10 @@ color: navy;
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Charte d'usage et de sécurité du système d'information d'ASSUR MER</title><link>https://brbabaloni.fr/project/charte/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/charte/</guid><description>&lt;p>Contexte&lt;/p></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Charte d'usage et de sécurité du système d'information d'ASSUR MER</title><link>https://brbabaloni.fr/project/charte/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/charte/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;p>La direction d&amp;rsquo;ASSUR MER souhaitant régir l&amp;rsquo;utilisation des ressources informatique et numérique a saisie la DSI afin d&amp;rsquo;en rédiger une, le DSI vous charge de cette tache.
+Vous aurez comme tache de rediger la charte informatique de l&amp;rsquo;entreprise ASSUR MER.&lt;/p>
+&lt;h5>Charte informatique&lt;/h5></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;h3>Contexte&lt;/h3>
 &lt;p>Dans le cadre du renouvellement partiel du matériel de nos utilisateurs, nous devons déployer une centaine de machine par an.
 Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p>
 &lt;p>Pour accélerer le déploiement des nouvelles machine, j&amp;rsquo;ai proposé à mes chefs de service cette solution technique de déploiement de poste via le réseau. Elle permet de réduire le temps déploiement à 5 min par machine.&lt;/p>
