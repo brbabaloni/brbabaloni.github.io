@@ -23,8 +23,8 @@ La Direction Zonale de Police Judiciaire Sud (DZPJ SUD), plus important service 
 &lt;br>
 &lt;br>
 Mon service est composé d&amp;rsquo;un Commandant de Police et d&amp;rsquo;un Ingénieur des SIC qui composent la tête du service et chapeaute l&amp;rsquo;ensemble de l&amp;rsquo;activité du service qui est réparti entre deux cellules :&lt;/p>
-&lt;ul>le Groupe Informatique :&lt;/ul> chargé de l'installation et de la maintenance des systèmes d'information et de communications
-&lt;ul>le Guichet Unique :&lt;/ul> chargé de la gestion des droits d'accès applicatifs, Active Directory, batimentaire ; des cartes agents, de la gestion de la flotte NEO.
+&lt;ul>- le Groupe Informatique :&lt;/ul> chargé de l'installation et de la maintenance des systèmes d'information et de communications // 4 Techniciens des SIC
+&lt;ul>- le Guichet Unique :&lt;/ul> chargé de la gestion des droits d'accès applicatifs, Active Directory, batimentaire ; des cartes agents, de la gestion de la flotte NEO. // 1 Brigadier de Police, 1 Adjoint Administratif
 &lt;br>
 &lt;br>
 Mes missions au sein de la DZPJ Sud sont :
@@ -161,10 +161,10 @@ Vous aurez comme tache de rediger la charte informatique de l&amp;rsquo;entrepri
 &lt;br>
 &lt;br>
 Cahier des charges :&lt;/p>
-&lt;ul>Nouvelles recommandations de la CNIL&lt;/ul>
-&lt;ul>Utilisation du matériel informatique&lt;/ul>
-&lt;ul>Utilisation des services : internet, messagerie, partage réseau, ...&lt;/ul>
-&lt;ul>Protection des données personnelles&lt;/ul>
+&lt;ul>- Nouvelles recommandations de la CNIL&lt;/ul>
+&lt;ul>- Utilisation du matériel informatique&lt;/ul>
+&lt;ul>- Utilisation des services : internet, messagerie, partage réseau, ...&lt;/ul>
+&lt;ul>- Protection des données personnelles&lt;/ul>
 &lt;h5>Charte informatique&lt;/h5></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;h3>Contexte&lt;/h3>
 &lt;p>Dans le cadre du renouvellement partiel du matériel de nos utilisateurs, nous devons déployer une centaine de machine par an.
 Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p>
