@@ -9,7 +9,29 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Copilote</title><link>https://brbabaloni.fr/project/copilote/</link><pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/copilote/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Mise en place d'une solution de stockage NAS</title><link>https://brbabaloni.fr/project/nas/</link><pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/nas/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E42023 :&lt;/p>
+&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
+&lt;ul>- Travailler en mode projet&lt;/ul>
+&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
+&lt;h3>Contexte&lt;/h3>
+Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS.
+&lt;br>
+&lt;br>
+&lt;h3>Missions&lt;/h3>
+&lt;p>Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde&lt;/p>
+&lt;p>Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques.&lt;/p>
+&lt;p>Comparer deux solutions logicielles de NAS que sont TrueNas et Synology&lt;/p>
+&lt;p>Installer et configurer les solutions TrueNas et Synology. (&lt;a href="https://xpenology.net" target="_blank" rel="noopener">https://xpenology.net&lt;/a>) sur votre machine personnelle sous VM afin de choisir votre solution définitive que vous installerez ensuite sur votre îlot.&lt;/p>
+&lt;p>Tester la solution en créant un dossier de partage public en lecture seule, puis un dossier par groupe de sécurité Active directory en lecture-écriture et enfin un dossier nominatif par compte utilisateur.&lt;/p>
+&lt;p>Créer un document pour les utilisateurs afin de les accompagner dans l’utilisation de ce nouveau service
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h3>Livrables&lt;/h3>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 2 : Fonctionnalités principales d’un NAS&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 3 : Comparaison des différentes solutions RAID&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 4 : Procédure d’installation&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur &lt;/a>&lt;/ul></description></item><item><title>Copilote</title><link>https://brbabaloni.fr/project/copilote/</link><pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/copilote/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
 &lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
@@ -177,29 +199,7 @@ protocoles DHCP / PXE.&lt;/p>
 &lt;h3>Installation&lt;/h3>
 &lt;p>Comme expliqué précédement, FOG s&amp;rsquo;installe sur une base Linux (Debian, Ubuntu, &amp;hellip;), l&amp;rsquo;installation s&amp;rsquo;effectue simplement à l&amp;rsquo;aide d&amp;rsquo;un script Bash qui déroule l&amp;rsquo;installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.&lt;/p>
 &lt;h3>Utilisation&lt;/h3>
-&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item><item><title>Mise en place d'une solution de stockage NAS</title><link>https://brbabaloni.fr/project/nas/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/nas/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E42023 :&lt;/p>
-&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
-&lt;ul>- Travailler en mode projet&lt;/ul>
-&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
-&lt;h3>Contexte&lt;/h3>
-Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS.
-&lt;br>
-&lt;br>
-&lt;h3>Missions&lt;/h3>
-&lt;p>Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde&lt;/p>
-&lt;p>Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques.&lt;/p>
-&lt;p>Comparer deux solutions logicielles de NAS que sont TrueNas et Synology&lt;/p>
-&lt;p>Installer et configurer les solutions TrueNas et Synology. (&lt;a href="https://xpenology.net" target="_blank" rel="noopener">https://xpenology.net&lt;/a>) sur votre machine personnelle sous VM afin de choisir votre solution définitive que vous installerez ensuite sur votre îlot.&lt;/p>
-&lt;p>Tester la solution en créant un dossier de partage public en lecture seule, puis un dossier par groupe de sécurité Active directory en lecture-écriture et enfin un dossier nominatif par compte utilisateur.&lt;/p>
-&lt;p>Créer un document pour les utilisateurs afin de les accompagner dans l’utilisation de ce nouveau service
-&lt;br>
-&lt;br>&lt;/p>
-&lt;h3>Livrables&lt;/h3>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 2 : Fonctionnalités principales d’un NAS&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 3 : Comparaison des différentes solutions RAID&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 4 : Procédure d’installation&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur &lt;/a>&lt;/ul></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
+&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
