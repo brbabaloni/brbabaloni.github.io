@@ -178,9 +178,9 @@ protocoles DHCP / PXE.&lt;/p>
 &lt;p>Comme expliqué précédement, FOG s&amp;rsquo;installe sur une base Linux (Debian, Ubuntu, &amp;hellip;), l&amp;rsquo;installation s&amp;rsquo;effectue simplement à l&amp;rsquo;aide d&amp;rsquo;un script Bash qui déroule l&amp;rsquo;installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.&lt;/p>
 &lt;h3>Utilisation&lt;/h3>
 &lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item><item><title>Mise en place d'une solution de stockage NAS</title><link>https://brbabaloni.fr/project/nas/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/nas/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E42023 :&lt;/p>
-&lt;ul>- Gérer le patrimoine informatique
-&lt;ul>- Travailler en mode projet
-&lt;ul>- Mettre à disposition des utilisateurs un service informatique
+&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
+&lt;ul>- Travailler en mode projet&lt;/ul>
+&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
 &lt;h3>Contexte&lt;/h3>
 Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS.
 &lt;br>
