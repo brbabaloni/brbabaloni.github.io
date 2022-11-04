@@ -67,12 +67,19 @@ Cela a pour but d’évaluer l’impact sur l’environnement et l’organisatio
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Sujet de ma veille&lt;/h3>
-Ma veille porte sur les Solutions d'Infrastructure Systèmes
+Ma veille porte sur les &lt;u>Solutions d'Infrastructure Systèmes&lt;/u>
+&lt;br>
 &lt;h3>Comment j'effectue ma veille&lt;/h3>
 &lt;ul>- Les flux RSS aggrégé avec Feedly&lt;/ul>
 &lt;ul>- Twitter&lt;/ul>
 &lt;ul>- Google Alert&lt;/ul>
-&lt;ul>- Linkedin&lt;/ul></description></item><item><title>Slides</title><link>https://brbabaloni.fr/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;ul>- Linkedin&lt;/ul>
+&lt;p>Mots-cléfs :&lt;/p>
+&lt;ul>- Proxmox&lt;/ul>
+&lt;ul>- VMWare&lt;/ul>
+&lt;ul>- Virtualisation&lt;/ul>
+&lt;ul>- Serveurs&lt;/ul>
+&lt;ul>- HP&lt;/ul></description></item><item><title>Slides</title><link>https://brbabaloni.fr/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
