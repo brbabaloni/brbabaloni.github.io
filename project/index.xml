@@ -4,7 +4,14 @@
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
 &lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Charte d'usage et de sécurité du système d'information d'ASSUR MER</title><link>https://brbabaloni.fr/project/charte/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/charte/</guid><description>&lt;h3>Contexte&lt;/h3>
 &lt;p>La direction d&amp;rsquo;ASSUR MER souhaitant régir l&amp;rsquo;utilisation des ressources informatique et numérique a saisie la DSI afin d&amp;rsquo;en rédiger une, le DSI vous charge de cette tache.
-Vous aurez comme tache de rediger la charte informatique de l&amp;rsquo;entreprise ASSUR MER.&lt;/p>
+Vous aurez comme tache de rediger la charte informatique de l&amp;rsquo;entreprise ASSUR MER.
+&lt;br>
+&lt;br>
+Cahier des charges :&lt;/p>
+&lt;ul>Nouvelles recommandations de la CNIL&lt;/ul>
+&lt;ul>Utilisation du matériel informatique&lt;/ul>
+&lt;ul>Utilisation des services : internet, messagerie, partage réseau, ...&lt;/ul>
+&lt;ul>Protection des données personnelles&lt;/ul>
 &lt;h5>Charte informatique&lt;/h5></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;h3>Contexte&lt;/h3>
 &lt;p>Dans le cadre du renouvellement partiel du matériel de nos utilisateurs, nous devons déployer une centaine de machine par an.
 Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p>
