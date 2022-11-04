@@ -187,11 +187,19 @@ Afin de gérer les documents et données (uniquement professionnels) des différ
 &lt;br>
 &lt;h3>Missions&lt;/h3>
 &lt;p>Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde&lt;/p>
-&lt;p>Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques.&lt;/p>
+&lt;p>Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques.&lt;/p>
 &lt;p>Comparer deux solutions logicielles de NAS que sont TrueNas et Synology&lt;/p>
 &lt;p>Installer et configurer les solutions TrueNas et Synology. (&lt;a href="https://xpenology.net" target="_blank" rel="noopener">https://xpenology.net&lt;/a>) sur votre machine personnelle sous VM afin de choisir votre solution définitive que vous installerez ensuite sur votre îlot.&lt;/p>
 &lt;p>Tester la solution en créant un dossier de partage public en lecture seule, puis un dossier par groupe de sécurité Active directory en lecture-écriture et enfin un dossier nominatif par compte utilisateur.&lt;/p>
-&lt;p>Créer un document pour les utilisateurs afin de les accompagner dans l’utilisation de ce nouveau service&lt;/p></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
+&lt;p>Créer un document pour les utilisateurs afin de les accompagner dans l’utilisation de ce nouveau service
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h3>Livrables&lt;/h3>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 2 : Fonctionnalités principales d’un NAS&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 3 : Comparaison des différentes solutions RAID&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 4 : Procédure d’installation&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur &lt;/a>&lt;/ul></description></item><item><title>An example conference paper</title><link>https://brbabaloni.fr/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/publication/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
