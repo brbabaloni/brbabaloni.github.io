@@ -37,4 +37,17 @@ Cahier des charges :&lt;/p>
 &lt;h3>Installation&lt;/h3>
 &lt;p>La procédure d&amp;rsquo;installation est disponible ici.&lt;/p>
 &lt;h3>Utilisation&lt;/h3>
-&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item></channel></rss>
+&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p>
+&lt;h3>Cycle de vie du ticket&lt;/h3>
+&lt;p>le cycle de vie du ticket GLPI suit les étapes suivantes :&lt;/p>
+&lt;p>Création : le ticket est créé par l&amp;rsquo;utilisateur qui signale un problème ou une demande de service.&lt;/p>
+&lt;p>Attribution : le ticket est attribué à un technicien qui est responsable de sa résolution. L&amp;rsquo;attribution peut se faire manuellement ou automatiquement en fonction de la configuration de GLPI.&lt;/p>
+&lt;p>Planification : le technicien planifie le temps nécessaire pour résoudre le ticket.&lt;/p>
+&lt;p>Analyse : le technicien analyse le problème ou la demande de service décrit dans le ticket.&lt;/p>
+&lt;p>Diagnostic : le technicien identifie la cause du problème ou de la demande de service.&lt;/p>
+&lt;p>Résolution : le technicien résout le problème ou répond à la demande de service.&lt;/p>
+&lt;p>Validation : l&amp;rsquo;utilisateur vérifie si le problème a été résolu ou si la demande de service a été traitée correctement.&lt;/p>
+&lt;p>Fermeture : le ticket est fermé une fois que l&amp;rsquo;utilisateur a confirmé que le problème a été résolu ou que la demande de service a été traitée correctement.&lt;/p>
+&lt;p>Réouverture : le ticket peut être réouvert si le problème n&amp;rsquo;a pas été résolu ou si l&amp;rsquo;utilisateur a besoin d&amp;rsquo;une assistance supplémentaire.&lt;/p>
+&lt;p>Archivage : le ticket est archivé une fois qu&amp;rsquo;il a été fermé pour une future référence.&lt;/p>
+&lt;p>Ces étapes peuvent être personnalisées en fonction des besoins de l&amp;rsquo;organisation et des processus internes.&lt;/p></description></item></channel></rss>
