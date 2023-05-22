@@ -91,15 +91,13 @@ protocoles DHCP / PXE.&lt;/p>
 &lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
 &lt;/p>
 &lt;h3>Contexte&lt;/h3>
-&lt;p>Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d&amp;rsquo;ASSUR MER vous charge d&amp;rsquo;installer et de mettre en place GLPI.
+&lt;p>Vous êtes chargé de l’étude de la mise place d’un accès WiFi sécurisé afin de permettre aux utilisateurs d’ASSUR MER d’utiliser un service de connexion sans fil et d’accéder ainsi aux informations se trouvant hébergées sur l’intranet de l’entreprise.
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Solution&lt;/h3>
-&lt;p>GLPI est un acronyme pour &amp;ldquo;Gestionnaire Libre de Parc Informatique&amp;rdquo;. C&amp;rsquo;est une application open-source de gestion des services informatiques (ITSM) qui permet aux organisations de gérer efficacement leur parc informatique, leurs ressources matérielles et logicielles ainsi que les demandes d&amp;rsquo;assistance.
+&lt;p>Pour cela vous devrez mettre en place différentes cellules WiFi en fonction du type d’utilisateurs concernées par cette future connexion. La solution retenu est la mise en place de borne Cisco Business 240AC.
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Livrables&lt;/h3>
-&lt;ul>&lt;a href="planning_glpi.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="install_glpi.pdf">Doc 2 : Installation de GLPI&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="cycle_ticket.pdf">Doc 3 : Cycle de vie du ticket&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="doc_util_glpi.pdf">Doc 4 : Document d’accompagnement utilisateur&lt;/a>&lt;/ul></description></item></channel></rss>
+&lt;ul>&lt;a href="planning_wifi.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="doc_wifi.pdf">Doc 2 : Installation d'une borne Cisco Business 240AC&lt;/a>&lt;/ul></description></item></channel></rss>
