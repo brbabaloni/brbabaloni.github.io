@@ -1,26 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>cfa | Baptiste RUELLO-BABALONI</title><link>https://brbabaloni.fr/tag/cfa/</link><atom:link href="https://brbabaloni.fr/tag/cfa/index.xml" rel="self" type="application/rss+xml"/><description>cfa</description><generator>Wowchemy (https://wowchemy.com)</generator><language>fr-fr</language><copyright>Tous droits réservés 2023 - Baptiste RUELLO-BABALONI - Mentions légales</copyright><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate><image><url>https://brbabaloni.fr/media/icon_huebf8e0a84d322f456ec4ad5120d75244_457240_512x512_fill_lanczos_center_3.png</url><title>cfa</title><link>https://brbabaloni.fr/tag/cfa/</link></image><item><title>Déploiement de conteneurs applicatifs avec Docker et Portainer</title><link>https://brbabaloni.fr/project/docker/</link><pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/docker/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E42023 :&lt;/p>
-&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
-&lt;ul>- Travailler en mode projet&lt;/ul>
-&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
-&lt;h3>Contexte&lt;/h3>
-Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS.
-&lt;br>
-&lt;br>
-&lt;h3>Missions&lt;/h3>
-&lt;p>Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde&lt;/p>
-&lt;p>Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques.&lt;/p>
-&lt;p>Comparer deux solutions logicielles de NAS que sont TrueNas et Synology&lt;/p>
-&lt;p>Installer et configurer les solutions TrueNas et Synology. (&lt;a href="https://xpenology.net" target="_blank" rel="noopener">https://xpenology.net&lt;/a>) sur votre machine personnelle sous VM afin de choisir votre solution définitive que vous installerez ensuite sur votre îlot.&lt;/p>
-&lt;p>Tester la solution en créant un dossier de partage public en lecture seule, puis un dossier par groupe de sécurité Active directory en lecture-écriture et enfin un dossier nominatif par compte utilisateur.&lt;/p>
-&lt;p>Créer un document pour les utilisateurs afin de les accompagner dans l’utilisation de ce nouveau service
-&lt;br>
-&lt;br>&lt;/p>
-&lt;h3>Livrables&lt;/h3>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 2 : Fonctionnalités principales d’un NAS&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 3 : Comparaison des différentes solutions RAID&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 4 : Procédure d’installation&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur &lt;/a>&lt;/ul></description></item><item><title>Mise en place d'une solution de stockage NAS</title><link>https://brbabaloni.fr/project/nas/</link><pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/nas/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E42023 :&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>cfa | Baptiste RUELLO-BABALONI</title><link>https://brbabaloni.fr/tag/cfa/</link><atom:link href="https://brbabaloni.fr/tag/cfa/index.xml" rel="self" type="application/rss+xml"/><description>cfa</description><generator>Wowchemy (https://wowchemy.com)</generator><language>fr-fr</language><copyright>Tous droits réservés 2023 - Baptiste RUELLO-BABALONI - Mentions légales</copyright><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate><image><url>https://brbabaloni.fr/media/icon_huebf8e0a84d322f456ec4ad5120d75244_457240_512x512_fill_lanczos_center_3.png</url><title>cfa</title><link>https://brbabaloni.fr/tag/cfa/</link></image><item><title>Mise en place d'une solution de stockage NAS</title><link>https://brbabaloni.fr/project/nas/</link><pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/nas/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E42023 :&lt;/p>
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
 &lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
