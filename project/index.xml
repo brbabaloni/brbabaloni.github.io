@@ -37,18 +37,19 @@ Mise en place et configuration d'un NAS Synology. Pour mettre à disposition des
 &lt;ul>&lt;a href="comparaison_raid.pdf">Doc 3 : Comparaison des différentes solutions RAID&lt;/a>&lt;/ul></description></item><item><title>Mise en place de la solution RDS (Remote Desktop Services)</title><link>https://brbabaloni.fr/project/rds/</link><pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/rds/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :&lt;/p>
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
+&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
 &lt;h3>Contexte&lt;/h3>
-Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’ASSUR MER ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS.
+Pour permettre aux utilisateurs en télétravail d’accéder à leurs applications métiers depuis n’importe quel poste de travail. La DSI envisage l’implémentation dans le SI d’une solution de type RDS et vous charge de sa mise en place.
 &lt;br>
 &lt;br>
 &lt;h3>Solution&lt;/h3>
-Mise en place et configuration d'un NAS Synology. Pour mettre à disposition des partages de fichiers pour les utilisateurs et des sauvegardes des serveurs. Comparaison des différentes solutions RAID.
+Le Remote Desktop Services (RDS) est une fonctionnalité de Windows Server qui permet à plusieurs utilisateurs de se connecter simultanément à un serveur distant. Les utilisateurs peuvent accéder à des applications et à des données hébergées sur un serveur distant à partir de n'importe quel appareil connecté à Internet.
 &lt;br>
 &lt;br>
 &lt;h3>Livrables&lt;/h3>
-&lt;ul>&lt;a href="planning_nas.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="install_nas.pdf">Doc 2 : Installation et configuration d'un NAS Synology&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="comparaison_raid.pdf">Doc 3 : Comparaison des différentes solutions RAID&lt;/a>&lt;/ul></description></item><item><title>Charte d'usage et de sécurité du système d'information d'ASSUR MER</title><link>https://brbabaloni.fr/project/charte/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/charte/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;ul>&lt;a href="planning_rds.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="install_rds.pdf">Doc 2 : Installation et configuration d'un NAS Synology&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="doc_util_rds.pdf">Doc 3 : Documentation utilisateur&lt;/a>&lt;/ul></description></item><item><title>Charte d'usage et de sécurité du système d'information d'ASSUR MER</title><link>https://brbabaloni.fr/project/charte/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/charte/</guid><description>&lt;h3>Contexte&lt;/h3>
 &lt;p>La direction d&amp;rsquo;ASSUR MER souhaitant régir l&amp;rsquo;utilisation des ressources informatique et numérique a saisie la DSI afin d&amp;rsquo;en rédiger une, le DSI vous charge de cette tache.
 Vous aurez comme tache de rediger la charte informatique de l&amp;rsquo;entreprise ASSUR MER.
 &lt;br>
