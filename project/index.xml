@@ -121,7 +121,20 @@ protocoles DHCP / PXE.&lt;/p>
 &lt;br>&lt;/p>
 &lt;h3>Livrables&lt;/h3>
 &lt;ul>&lt;a href="planning_checkmk.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="install_checkmk.pdf">Doc 2 : Installation de la solution checkmk&lt;/a>&lt;/ul></description></item><item><title>Solution de connexion distante VPN</title><link>https://brbabaloni.fr/project/vpn/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/vpn/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>&lt;a href="install_checkmk.pdf">Doc 2 : Installation de la solution checkmk&lt;/a>&lt;/ul></description></item><item><title>Remplacement d'un système de visioconférence</title><link>https://brbabaloni.fr/project/visio/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/visio/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
+&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
+&lt;/p>
+&lt;h3>Contexte&lt;/h3>
+Dans le cadre du remplacement du système de visioconférence, le Service Informatique Zonal m'a confié la mission de rediger et mettre à disposition une documentation utilisateur.
+&lt;br>
+&lt;br>
+&lt;h3>Solution&lt;/h3>
+AverMedia est une solution de visioconférence qui permet de faire des réunions à distance. Elle est composée d'un boitier de contrôle, d'une caméra et d'un micro.
+&lt;br>
+&lt;br>
+&lt;h3>Livrables&lt;/h3>
+&lt;ul>&lt;a href="doc_util_visio.pdf">Doc 1 : Documentation utilisateur&lt;/a>&lt;/ul></description></item><item><title>Solution de connexion distante VPN</title><link>https://brbabaloni.fr/project/vpn/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/vpn/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
 &lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>

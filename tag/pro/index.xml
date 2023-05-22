@@ -12,4 +12,17 @@ protocoles DHCP / PXE.&lt;/p>
 &lt;h3>Installation&lt;/h3>
 &lt;p>Comme expliqué précédement, FOG s&amp;rsquo;installe sur une base Linux (Debian, Ubuntu, &amp;hellip;), l&amp;rsquo;installation s&amp;rsquo;effectue simplement à l&amp;rsquo;aide d&amp;rsquo;un script Bash qui déroule l&amp;rsquo;installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.&lt;/p>
 &lt;h3>Utilisation&lt;/h3>
-&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item></channel></rss>
+&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item><item><title>Remplacement d'un système de visioconférence</title><link>https://brbabaloni.fr/project/visio/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/visio/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
+&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
+&lt;/p>
+&lt;h3>Contexte&lt;/h3>
+Dans le cadre du remplacement du système de visioconférence, le Service Informatique Zonal m'a confié la mission de rediger et mettre à disposition une documentation utilisateur.
+&lt;br>
+&lt;br>
+&lt;h3>Solution&lt;/h3>
+AverMedia est une solution de visioconférence qui permet de faire des réunions à distance. Elle est composée d'un boitier de contrôle, d'une caméra et d'un micro.
+&lt;br>
+&lt;br>
+&lt;h3>Livrables&lt;/h3>
+&lt;ul>&lt;a href="doc_util_visio.pdf">Doc 1 : Documentation utilisateur&lt;/a>&lt;/ul></description></item></channel></rss>
