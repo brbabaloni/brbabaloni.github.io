@@ -67,14 +67,15 @@ protocoles DHCP / PXE.&lt;/p>
 &lt;h3>Installation&lt;/h3>
 &lt;p>Comme expliqué précédement, FOG s&amp;rsquo;installe sur une base Linux (Debian, Ubuntu, &amp;hellip;), l&amp;rsquo;installation s&amp;rsquo;effectue simplement à l&amp;rsquo;aide d&amp;rsquo;un script Bash qui déroule l&amp;rsquo;installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.&lt;/p>
 &lt;h3>Utilisation&lt;/h3>
-&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :&lt;/p>
+&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
 &lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
-&lt;br>
+&lt;/p>
 &lt;h3>Contexte&lt;/h3>
 &lt;p>Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d&amp;rsquo;ASSUR MER vous charge d&amp;rsquo;installer et de mettre en place GLPI.
+&lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Solution&lt;/h3>
 &lt;p>GLPI est un acronyme pour &amp;ldquo;Gestionnaire Libre de Parc Informatique&amp;rdquo;. C&amp;rsquo;est une application open-source de gestion des services informatiques (ITSM) qui permet aux organisations de gérer efficacement leur parc informatique, leurs ressources matérielles et logicielles ainsi que les demandes d&amp;rsquo;assistance.

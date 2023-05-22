@@ -31,14 +31,15 @@ Cahier des charges :&lt;/p>
 &lt;ul>- Utilisation des services : internet, messagerie, partage réseau, ...&lt;/ul>
 &lt;ul>- Protection des données personnelles&lt;/ul>
 &lt;br>
-&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte&lt;/a></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :&lt;/p>
+&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte&lt;/a></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
 &lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
-&lt;br>
+&lt;/p>
 &lt;h3>Contexte&lt;/h3>
 &lt;p>Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d&amp;rsquo;ASSUR MER vous charge d&amp;rsquo;installer et de mettre en place GLPI.
+&lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Solution&lt;/h3>
 &lt;p>GLPI est un acronyme pour &amp;ldquo;Gestionnaire Libre de Parc Informatique&amp;rdquo;. C&amp;rsquo;est une application open-source de gestion des services informatiques (ITSM) qui permet aux organisations de gérer efficacement leur parc informatique, leurs ressources matérielles et logicielles ainsi que les demandes d&amp;rsquo;assistance.
