@@ -31,7 +31,7 @@ Afin de gérer les documents et données (uniquement professionnels) des différ
 &lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 2 : Fonctionnalités principales d’un NAS&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 3 : Comparaison des différentes solutions RAID&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 4 : Procédure d’installation&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur &lt;/a>&lt;/ul></description></item><item><title>Mise en place d'une solution de stockage NAS</title><link>https://brbabaloni.fr/project/nas/</link><pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/nas/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E42023 :&lt;/p>
+&lt;ul>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur &lt;/a>&lt;/ul></description></item><item><title>Mise en place d'une solution de stockage NAS</title><link>https://brbabaloni.fr/project/nas/</link><pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/nas/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :&lt;/p>
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
 &lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
@@ -242,7 +242,8 @@ Cahier des charges :&lt;/p>
 &lt;ul>- Utilisation du matériel informatique&lt;/ul>
 &lt;ul>- Utilisation des services : internet, messagerie, partage réseau, ...&lt;/ul>
 &lt;ul>- Protection des données personnelles&lt;/ul>
-&lt;p>&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte&lt;/a>&lt;/p></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;br>
+&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte&lt;/a></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;h3>Contexte&lt;/h3>
 &lt;p>Dans le cadre du renouvellement partiel du matériel de nos utilisateurs, nous devons déployer une centaine de machine par an.
 Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p>
 &lt;p>Pour accélerer le déploiement des nouvelles machine, j&amp;rsquo;ai proposé à mes chefs de service cette solution technique de déploiement de poste via le réseau. Elle permet de réduire le temps déploiement à 5 min par machine.&lt;/p>
