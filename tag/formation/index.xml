@@ -70,18 +70,20 @@ Cahier des charges :&lt;/p>
 &lt;br>&lt;/p>
 &lt;h3>Livrables&lt;/h3>
 &lt;ul>&lt;a href="planning_checkmk.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="install_checkmk.pdf">Doc 2 : Installation de la solution checkmk&lt;/a>&lt;/ul></description></item><item><title>Mise en place d'une solution de supervision d'infrastructure</title><link>https://brbabaloni.fr/project/vpn/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/vpn/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>&lt;a href="install_checkmk.pdf">Doc 2 : Installation de la solution checkmk&lt;/a>&lt;/ul></description></item><item><title>Solution de connexion distante VPN</title><link>https://brbabaloni.fr/project/vpn/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/vpn/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
+&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
 &lt;/p>
 &lt;h3>Contexte&lt;/h3>
-&lt;p>Pour suivre le fonctionnement de l&amp;rsquo;infrastucture et les incidents qui y sont liés, la DSI d&amp;rsquo;ASSUR MER vous charge d&amp;rsquo;installer et de mettre en place une solution de supervision.
+&lt;p>Pour permettre aux collaborateurs de se connecter à distance de façon sécurisé aux ressources de l&amp;rsquo;entreprise, la DSI d&amp;rsquo;ASSUR MER vous charge de mettre en place une solution de connexion distante.
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Solution&lt;/h3>
-&lt;p>Checkmk est une solution de supervision open source qui permet de surveiller les serveurs et les applications. Elle permet de surveiller les performances et l&amp;rsquo;état des systèmes, des réseaux et des applications.
+Wireguard est un VPN open source qui permet de créer un réseau privé virtuel sécurisé. Il permet de connecter des ordinateurs distants à un réseau local de façon sécurisé.
 &lt;br>
-&lt;br>&lt;/p>
+&lt;br>
 &lt;h3>Livrables&lt;/h3>
-&lt;ul>&lt;a href="planning_checkmk.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="install_checkmk.pdf">Doc 2 : Installation de la solution checkmk&lt;/a>&lt;/ul></description></item></channel></rss>
+&lt;ul>&lt;a href="planning_vpn.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="install_vpn.pdf">Doc 2 : Configuration du serveur VPN WireGuard&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="doc_util_vpn.pdf">Doc 3 : Documentation du client VPN WireGuard&lt;/a>&lt;/ul></description></item></channel></rss>
