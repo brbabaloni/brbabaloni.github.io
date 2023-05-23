@@ -267,7 +267,25 @@ cloné, sur un parc de machines donné via le réseau en s&amp;rsquo;appuyant su
 protocoles DHCP / PXE.&lt;/p>
 &lt;h3>Livrables&lt;/h3>
 &lt;ul>&lt;a href="install_pxe.pdf">Doc 1 : Installation de FOG&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="doc_util_pxe.pdf">Doc 1 : Documentation technique&lt;/a>&lt;/ul></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>&lt;a href="doc_util_pxe.pdf">Doc 1 : Documentation technique&lt;/a>&lt;/ul></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/assistance/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/assistance/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
+&lt;ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution&lt;/ul>
+&lt;ul>- Travailler en mode projet&lt;/ul>
+&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
+&lt;/p>
+&lt;h3>Contexte&lt;/h3>
+&lt;p>Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d&amp;rsquo;ASSUR MER vous charge d&amp;rsquo;installer et de mettre en place GLPI.
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h3>Solution&lt;/h3>
+&lt;p>GLPI est un acronyme pour &amp;ldquo;Gestionnaire Libre de Parc Informatique&amp;rdquo;. C&amp;rsquo;est une application open-source de gestion des services informatiques (ITSM) qui permet aux organisations de gérer efficacement leur parc informatique, leurs ressources matérielles et logicielles ainsi que les demandes d&amp;rsquo;assistance.
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h3>Livrables&lt;/h3>
+&lt;ul>&lt;a href="planning_glpi.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="install_glpi.pdf">Doc 2 : Installation de GLPI&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="cycle_ticket.pdf">Doc 3 : Cycle de vie du ticket&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="doc_util_glpi.pdf">Doc 4 : Document d’accompagnement utilisateur&lt;/a>&lt;/ul></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
