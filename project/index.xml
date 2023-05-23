@@ -57,10 +57,13 @@ Le Remote Desktop Services (RDS) est une fonctionnalité de Windows Server qui p
 &lt;p>Dans le cadre de mon alternance au Service Informatique Zonal de la Direction Zonale de Police Judiciaire Sud, j&amp;rsquo;ai pour principale mission d&amp;rsquo;assurer l&amp;rsquo;assistance aux utilisateurs et la gestion du parc informatique.
 &lt;br>
 &lt;br>&lt;/p>
-&lt;h3>Solution&lt;/h3>
-&lt;p>GLPI est un acronyme pour &amp;ldquo;Gestionnaire Libre de Parc Informatique&amp;rdquo;. C&amp;rsquo;est une application open-source de gestion des services informatiques (ITSM) qui permet aux organisations de gérer efficacement leur parc informatique, leurs ressources matérielles et logicielles ainsi que les demandes d&amp;rsquo;assistance.
+&lt;h3>Missions&lt;/h3>
+&lt;ul>Assurer l'assistance aux utilisateurs&lt;/ul>
+&lt;ul>Assurer la gestion du parc informatique&lt;/ul>
+&lt;ul>Déploiement de nouveaux postes de travail&lt;/ul>
+&lt;ul>Installation et maintenance d'équipements réseaux et téléphoniques&lt;/ul>
 &lt;br>
-&lt;br>&lt;/p>
+&lt;br>
 &lt;h3>Livrables&lt;/h3>
 &lt;ul>&lt;a href="planning_glpi.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="install_glpi.pdf">Doc 2 : Installation de GLPI&lt;/a>&lt;/ul>
