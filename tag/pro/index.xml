@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pro | Baptiste RUELLO-BABALONI</title><link>https://brbabaloni.fr/tag/pro/</link><atom:link href="https://brbabaloni.fr/tag/pro/index.xml" rel="self" type="application/rss+xml"/><description>pro</description><generator>Wowchemy (https://wowchemy.com)</generator><language>fr-fr</language><copyright>Tous droits réservés 2023 - Baptiste RUELLO-BABALONI - Mentions légales</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://brbabaloni.fr/media/icon_huebf8e0a84d322f456ec4ad5120d75244_457240_512x512_fill_lanczos_center_3.png</url><title>pro</title><link>https://brbabaloni.fr/tag/pro/</link></image><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pro | Baptiste RUELLO-BABALONI</title><link>https://brbabaloni.fr/tag/pro/</link><atom:link href="https://brbabaloni.fr/tag/pro/index.xml" rel="self" type="application/rss+xml"/><description>pro</description><generator>Wowchemy (https://wowchemy.com)</generator><language>fr-fr</language><copyright>Tous droits réservés 2023 - Baptiste RUELLO-BABALONI - Mentions légales</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://brbabaloni.fr/media/icon_huebf8e0a84d322f456ec4ad5120d75244_457240_512x512_fill_lanczos_center_3.png</url><title>pro</title><link>https://brbabaloni.fr/tag/pro/</link></image><item><title>Assistance aux utilisateurs &amp; Gestion du parc informatique</title><link>https://brbabaloni.fr/project/assistance/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/assistance/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
+&lt;ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution&lt;/ul>
+&lt;/p>
+&lt;h3>Contexte&lt;/h3>
+&lt;p>Dans le cadre de mon alternance au Service Informatique Zonal de la Direction Zonale de Police Judiciaire Sud, j&amp;rsquo;ai pour principale mission d&amp;rsquo;assurer l&amp;rsquo;assistance aux utilisateurs et la gestion du parc informatique.
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h3>Solution&lt;/h3>
+&lt;p>GLPI est un acronyme pour &amp;ldquo;Gestionnaire Libre de Parc Informatique&amp;rdquo;. C&amp;rsquo;est une application open-source de gestion des services informatiques (ITSM) qui permet aux organisations de gérer efficacement leur parc informatique, leurs ressources matérielles et logicielles ainsi que les demandes d&amp;rsquo;assistance.
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h3>Livrables&lt;/h3>
+&lt;ul>&lt;a href="planning_glpi.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="install_glpi.pdf">Doc 2 : Installation de GLPI&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="cycle_ticket.pdf">Doc 3 : Cycle de vie du ticket&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="doc_util_glpi.pdf">Doc 4 : Document d’accompagnement utilisateur&lt;/a>&lt;/ul></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
 &lt;/p>
