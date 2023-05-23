@@ -250,7 +250,11 @@ Cahier des charges :&lt;/p>
 &lt;ul>- Utilisation des services : internet, messagerie, partage réseau, ...&lt;/ul>
 &lt;ul>- Protection des données personnelles&lt;/ul>
 &lt;br>
-&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte&lt;/a></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte&lt;/a></description></item><item><title>Déploiement d'un serveur PXE FOG</title><link>https://brbabaloni.fr/project/pxe/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/pxe/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>- Gérer le patrimoine informatique&lt;/ul>
+&lt;ul>- Travailler en mode projet&lt;/ul>
+&lt;/p>
+&lt;h3>Contexte&lt;/h3>
 &lt;p>Dans le cadre du renouvellement partiel du matériel de nos utilisateurs, nous devons déployer une centaine de machine par an.
 Auparavant les postes étaient masterisés manuellement à l&amp;rsquo;aide d&amp;rsquo;un disque dur et d&amp;rsquo;une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l&amp;rsquo;activité du Service Informatique Zonal.&lt;/p>
 &lt;p>Pour accélerer le déploiement des nouvelles machine, j&amp;rsquo;ai proposé à mes chefs de service cette solution technique de déploiement de poste via le réseau. Elle permet de réduire le temps déploiement à 5 min par machine.&lt;/p>
@@ -261,10 +265,9 @@ une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
 FOG permet entre de déployer un système d&amp;rsquo;exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s&amp;rsquo;appuyant sur les
 protocoles DHCP / PXE.&lt;/p>
-&lt;h3>Installation&lt;/h3>
-&lt;p>Comme expliqué précédement, FOG s&amp;rsquo;installe sur une base Linux (Debian, Ubuntu, &amp;hellip;), l&amp;rsquo;installation s&amp;rsquo;effectue simplement à l&amp;rsquo;aide d&amp;rsquo;un script Bash qui déroule l&amp;rsquo;installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.&lt;/p>
-&lt;h3>Utilisation&lt;/h3>
-&lt;p>FOG se configure et s&amp;rsquo;utilise à l&amp;rsquo;aide d&amp;rsquo;une interface Web, qui nous permet de capturer et de déployer les postes.&lt;/p></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;h3>Livrables&lt;/h3>
+&lt;ul>&lt;a href="install_pxe.pdf">Doc 1 : Installation de FOG&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="doc_util_pxe.pdf">Doc 1 : Documentation technique&lt;/a>&lt;/ul></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
