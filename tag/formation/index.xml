@@ -27,25 +27,12 @@ Le Remote Desktop Services (RDS) est une fonctionnalité de Windows Server qui p
 &lt;h3>Livrables&lt;/h3>
 &lt;ul>&lt;a href="planning_rds.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="install_rds.pdf">Doc 2 : Installation d'une ferme RDS&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="doc_util_rds.pdf">Doc 3 : Documentation utilisateur&lt;/a>&lt;/ul></description></item><item><title>Charte d'usage et de sécurité du système d'information d'ASSUR MER</title><link>https://brbabaloni.fr/project/charte/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/charte/</guid><description>&lt;h3>Contexte&lt;/h3>
-&lt;p>La direction d&amp;rsquo;ASSUR MER souhaitant régir l&amp;rsquo;utilisation des ressources informatique et numérique a saisie la DSI afin d&amp;rsquo;en rédiger une, le DSI vous charge de cette tache.
-Vous aurez comme tache de rediger la charte informatique de l&amp;rsquo;entreprise ASSUR MER.
-&lt;br>
-&lt;br>
-Cahier des charges :&lt;/p>
-&lt;ul>- Nouvelles recommandations de la CNIL&lt;/ul>
-&lt;ul>- Utilisation du matériel informatique&lt;/ul>
-&lt;ul>- Utilisation des services : internet, messagerie, partage réseau, ...&lt;/ul>
-&lt;ul>- Protection des données personnelles&lt;/ul>
-&lt;br>
-&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte&lt;/a></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/assistance/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/assistance/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>&lt;a href="doc_util_rds.pdf">Doc 3 : Documentation utilisateur&lt;/a>&lt;/ul></description></item><item><title>Assistance aux utilisateurs &amp; Gestion du parc informatique</title><link>https://brbabaloni.fr/project/assistance/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/assistance/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution&lt;/ul>
-&lt;ul>- Travailler en mode projet&lt;/ul>
-&lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
 &lt;/p>
 &lt;h3>Contexte&lt;/h3>
-&lt;p>Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d&amp;rsquo;ASSUR MER vous charge d&amp;rsquo;installer et de mettre en place GLPI.
+&lt;p>Dans le cadre de mon alternance au Service Informatique Zonal de la Direction Zonale de Police Judiciaire Sud, j&amp;rsquo;ai pour principale mission d&amp;rsquo;assurer l&amp;rsquo;assistance aux utilisateurs et la gestion du parc informatique.
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Solution&lt;/h3>
@@ -56,7 +43,18 @@ Cahier des charges :&lt;/p>
 &lt;ul>&lt;a href="planning_glpi.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="install_glpi.pdf">Doc 2 : Installation de GLPI&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="cycle_ticket.pdf">Doc 3 : Cycle de vie du ticket&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="doc_util_glpi.pdf">Doc 4 : Document d’accompagnement utilisateur&lt;/a>&lt;/ul></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>&lt;a href="doc_util_glpi.pdf">Doc 4 : Document d’accompagnement utilisateur&lt;/a>&lt;/ul></description></item><item><title>Charte d'usage et de sécurité du système d'information d'ASSUR MER</title><link>https://brbabaloni.fr/project/charte/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/charte/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;p>La direction d&amp;rsquo;ASSUR MER souhaitant régir l&amp;rsquo;utilisation des ressources informatique et numérique a saisie la DSI afin d&amp;rsquo;en rédiger une, le DSI vous charge de cette tache.
+Vous aurez comme tache de rediger la charte informatique de l&amp;rsquo;entreprise ASSUR MER.
+&lt;br>
+&lt;br>
+Cahier des charges :&lt;/p>
+&lt;ul>- Nouvelles recommandations de la CNIL&lt;/ul>
+&lt;ul>- Utilisation du matériel informatique&lt;/ul>
+&lt;ul>- Utilisation des services : internet, messagerie, partage réseau, ...&lt;/ul>
+&lt;ul>- Protection des données personnelles&lt;/ul>
+&lt;br>
+&lt;a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte&lt;/a></description></item><item><title>Déploiement de GLPI</title><link>https://brbabaloni.fr/project/glpi/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/glpi/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution&lt;/ul>
 &lt;ul>- Travailler en mode projet&lt;/ul>
