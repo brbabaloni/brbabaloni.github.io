@@ -21,10 +21,10 @@ La DSI envisage le changement progressif de son système d’hébergement des ap
 &lt;li>Déploiement du conteneur Portainer&lt;/li>
 &lt;li>Déploiement d’une application&lt;/li>
 &lt;li>Test de mise en production&lt;/li>
-&lt;li>Administration et suivi du déploiement avec Portainer&lt;/li>
+&lt;li>Administration et suivi du déploiement avec Portainer
+&lt;br>
+&lt;br>&lt;/li>
 &lt;/ol>
-&lt;br>
-&lt;br>
 &lt;h3>Documents associés&lt;/h3>
 &lt;ul>&lt;a href="E5-DOCKER.pdf">Fiche descriptive de réalisation professionnelle&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="topologie_assurmer.pdf">Topologie de l'infrastructure ASSUR MER&lt;/a>&lt;/ul>
