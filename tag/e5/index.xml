@@ -33,23 +33,23 @@ La DSI envisage le changement progressif de son système d’hébergement des ap
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Environnement&lt;/h3>
-- 1 routeur/pare-feu pfSense
-- 1 poste client Windows 10
-- 1 serveur de supervision CheckMK
+- 1 routeur/pare-feu pfSense&lt;/ul>
+- 1 poste client Windows 10&lt;/ul>
+- 1 serveur de supervision CheckMK&lt;/ul>
 &lt;br>
 &lt;br>
 &lt;h3>Démarche&lt;/h3>
-1) Configuration du VPN Wireguard sur pfSense
-2) Création des clés utilisateurs
-3) Création des règles de pare-feu sur pfSense
-4) Test de connexion depuis un poste client
-5) Supervision de la connexion avec CheckMK
+&lt;ul>1) Configuration du VPN Wireguard sur pfSense&lt;/ul>
+&lt;ul>2) Création des clés utilisateurs&lt;/ul>
+&lt;ul>3) Création des règles de pare-feu sur pfSense&lt;/ul>
+&lt;ul>4) Test de connexion depuis un poste client&lt;/ul>
+&lt;ul>5) Supervision de la connexion avec CheckMK&lt;/ul>
 &lt;br>
 &lt;br>
 &lt;h3>Résultats attendus&lt;/h3>
-- Mise à disposition des ressources réseaux de l’entreprise aux télétravailleurs
-- Sécuriser l’accès aux réseaux depuis l’extérieur
-- Supervision du bon fonctionnement de l’accès VPN avec l’outil de supervision CheckMK
+&lt;ul>- Mise à disposition des ressources réseaux de l’entreprise aux télétravailleurs&lt;/ul>
+&lt;ul>- Sécuriser l’accès aux réseaux depuis l’extérieur&lt;/ul>
+&lt;ul>- Supervision du bon fonctionnement de l’accès VPN avec l’outil de supervision CheckMK&lt;/ul>
 &lt;br>
 &lt;br>
 &lt;h3>Documents associés&lt;/h3>
