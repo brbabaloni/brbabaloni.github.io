@@ -134,7 +134,36 @@ protocoles DHCP / PXE.&lt;/p>
 &lt;br>&lt;/p>
 &lt;h3>Livrables&lt;/h3>
 &lt;ul>&lt;a href="planning_checkmk.pdf">Doc 1 : Planning de travail&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="install_checkmk.pdf">Doc 2 : Installation de la solution checkmk&lt;/a>&lt;/ul></description></item><item><title>Remplacement d'un système de visioconférence</title><link>https://brbabaloni.fr/project/visio/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/visio/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
+&lt;ul>&lt;a href="install_checkmk.pdf">Doc 2 : Installation de la solution checkmk&lt;/a>&lt;/ul></description></item><item><title>Mise en place d’une solution VPN Wireguard</title><link>https://brbabaloni.fr/project/wireguard/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/wireguard/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;p>Pour permettre aux collaborateurs de se connecter à distance de façon sécurisé aux ressources de l&amp;rsquo;entreprise, la DSI d&amp;rsquo;ASSUR MER vous charge de mettre en place une solution de connexion distante.&lt;/p>
+&lt;p>La crise sanitaire liée au COVID-19 à fortement changer les modes de production de biens et services, lors du confinement mis en place en raison de la pandémie, la DSI a dû mettre en place un accès extérieur aux ressources réseaux de l’entreprise pour permettre aux salariés de continuer à travailler. La DSI a retenu Wireguard comme solution VPN.
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h3>Environnement&lt;/h3>
+- 1 routeur/pare-feu pfSense
+- 1 poste client Windows 10
+- 1 serveur de supervision CheckMK
+&lt;br>
+&lt;br>
+&lt;h3>Démarche&lt;/h3>
+1) Configuration du VPN Wireguard sur pfSense
+2) Création des clés utilisateurs
+3) Création des règles de pare-feu sur pfSense
+4) Test de connexion depuis un poste client
+5) Supervision de la connexion avec CheckMK
+&lt;br>
+&lt;br>
+&lt;h3>Résultats attendus&lt;/h3>
+- Mise à disposition des ressources réseaux de l’entreprise aux télétravailleurs
+- Sécuriser l’accès aux réseaux depuis l’extérieur
+- Supervision du bon fonctionnement de l’accès VPN avec l’outil de supervision CheckMK
+&lt;br>
+&lt;br>
+&lt;h3>Documents associés&lt;/h3>
+&lt;ul>&lt;a href="E5-DOCKER.pdf">Fiche descriptive de réalisation professionnelle&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="topologie_assurmer.pdf">Topologie de l'infrastructure ASSUR MER&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="doc_e5_wireguard.pdf">Documentation VPN&lt;/a>&lt;/ul>
+&lt;ul>&lt;a href="doc_e5_checkmk.pdf">Documentation CheckMK&lt;/a>&lt;/ul></description></item><item><title>Remplacement d'un système de visioconférence</title><link>https://brbabaloni.fr/project/visio/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/visio/</guid><description>&lt;p>Activités du référentiel pour l’épreuve E4 2023 :
 &lt;ul>- Gérer le patrimoine informatique&lt;/ul>
 &lt;ul>- Mettre à disposition des utilisateurs un service informatique&lt;/ul>
 &lt;/p>
