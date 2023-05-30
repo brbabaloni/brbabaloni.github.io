@@ -27,7 +27,7 @@ La DSI envisage le changement progressif de son système d’hébergement des ap
 &lt;ul>&lt;a href="E5-DOCKER.pdf">Fiche descriptive de réalisation professionnelle&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="topologie_assurmer.pdf">Topologie de l'infrastructure ASSUR MER&lt;/a>&lt;/ul>
 &lt;ul>&lt;a href="topologie_docker.pdf">Topologie de l'infrastructure DOCKER&lt;/a>&lt;/ul>
-&lt;ul>&lt;a href="doc_e5_docker.pdf">Documentation&lt;/a>&lt;/ul></description></item><item><title>Mise en place d’une solution VPN Wireguard</title><link>https://brbabaloni.fr/project/wireguard/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/wireguard/</guid><description>&lt;h3>Contexte&lt;/h3>
+&lt;ul>&lt;a href="doc_e5_docker.pdf">Documentation&lt;/a>&lt;/ul></description></item><item><title>Mise en place d’une solution VPN Wireguard</title><link>https://brbabaloni.fr/project/wireguard/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://brbabaloni.fr/project/wireguard/</guid><description>&lt;h3>Contexte&lt;/h3>
 &lt;p>Pour permettre aux collaborateurs de se connecter à distance de façon sécurisé aux ressources de l&amp;rsquo;entreprise, la DSI d&amp;rsquo;ASSUR MER vous charge de mettre en place une solution de connexion distante.&lt;/p>
 &lt;p>La crise sanitaire liée au COVID-19 à fortement changer les modes de production de biens et services, lors du confinement mis en place en raison de la pandémie, la DSI a dû mettre en place un accès extérieur aux ressources réseaux de l’entreprise pour permettre aux salariés de continuer à travailler. La DSI a retenu Wireguard comme solution VPN.
 &lt;br>
