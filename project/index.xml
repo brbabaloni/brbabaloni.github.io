@@ -4,7 +4,7 @@ La DSI envisage le changement progressif de son système d’hébergement des ap
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Environnement&lt;/h3>
-- 1 hyperviseur de type 1 « bare-metal » VMware ESXi
+- 1 hyperviseur de type 1 « bare-metal » VMware ESXi 7.0 U3
 - 1 machine virtuelle sous Debian 11
 - 1 poste client Windows 10
 &lt;br>
