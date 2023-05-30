@@ -354,9 +354,9 @@ protocoles DHCP / PXE.&lt;/p>
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Environnement&lt;/h3>
-- 1 routeur/pare-feu pfSense&lt;/ul>
-- 1 poste client Windows 10&lt;/ul>
-- 1 serveur de supervision CheckMK&lt;/ul>
+&lt;ul>- 1 routeur/pare-feu pfSense&lt;/ul>
+&lt;ul>- 1 poste client Windows 10&lt;/ul>
+&lt;ul>- 1 serveur de supervision CheckMK&lt;/ul>
 &lt;br>
 &lt;br>
 &lt;h3>Démarche&lt;/h3>
