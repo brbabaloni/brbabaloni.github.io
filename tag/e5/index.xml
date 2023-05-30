@@ -4,23 +4,23 @@ La DSI envisage le changement progressif de son système d’hébergement des ap
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h3>Environnement&lt;/h3>
-- 1 hyperviseur de type 1 « bare-metal » VMware ESXi 7.0 U3
-- 1 machine virtuelle sous Debian 11
-- 1 poste client Windows 10
+&lt;ul>- 1 hyperviseur de type 1 « bare-metal » VMware ESXi 7.0 U3&lt;/ul>
+&lt;ul>- 1 machine virtuelle sous Debian 11&lt;/ul>
+&lt;ul>- 1 poste client Windows 10&lt;/ul>
 &lt;br>
 &lt;br>
 &lt;h3>Démarche&lt;/h3>
-1) Installation de la VM Docker V-ASSURMER-DOCKER01 - 172.16.0.6
-2) Création du cluster Docker
-3) Déploiement du conteneur Portainer
-4) Déploiement d’une application
-5) Test de mise en production
-6) Administration et suivi du déploiement avec Portainer
+&lt;ul>1) Installation de la VM Docker V-ASSURMER-DOCKER01 - 172.16.0.6&lt;/ul>
+&lt;ul>2) Création du cluster Docker&lt;/ul>
+&lt;ul>3) Déploiement du conteneur Portainer&lt;/ul>
+&lt;ul>4) Déploiement d’une application&lt;/ul>
+&lt;ul>5) Test de mise en production&lt;/ul>
+&lt;ul>6) Administration et suivi du déploiement avec Portainer&lt;/ul>
 &lt;br>
 &lt;br>
 &lt;h3>Résultats attendus&lt;/h3>
-- Mise à disposition d’applications/services aux utilisateurs
-- Administration et supervision du déploiement par Portainer
+&lt;ul>- Mise à disposition d’applications/services aux utilisateurs&lt;/ul>
+&lt;ul>- Administration et supervision du déploiement par Portainer&lt;/ul>
 &lt;br>
 &lt;br>
 &lt;h3>Documents associés&lt;/h3>
